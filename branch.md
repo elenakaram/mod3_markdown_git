@@ -70,3 +70,10 @@ git branch --move local_branch_name new_branch_name
 ![Вывод команды](./assets/skillfact_git_branch_move_output.png)
 
 Команда переименовывет ветку <mark>lessontest -> lesson<mark>
+
+
+**Примечание:** 
+Для создания ветки можно также использовать команду ***get checkout*** c параметром ***-b*** и указанием имени ветки. При выполнении этой команды будет создана новая ветка и одновременно будет переключение в новую ветку. Смотри [checkout](./checkout.md).
+
+
+

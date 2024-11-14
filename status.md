@@ -13,8 +13,22 @@
 
 
 
-Пример запуска команды
+*Пример запуска команды*
 
   ```bash=
    $ git status
   ```
+
+  *Результат выполнения команды, если не было никаких изменений*
+
+  ![git status](./assets/skillfact_git_status1.png)
+
+
+  *Результат выполнения команды после внесения изменений в файлы в локальном репозитории
+
+  ![git status after edit](./assets/skillfact_git_status2.png) 
+  ![git status end](./assets/skillfact_git_status3.png)
+
+
+
+

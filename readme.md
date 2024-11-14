@@ -15,16 +15,12 @@ License: [MIT](./license.md)
 7.  [git fetch](./fetch.md)
 8.  [git log](./log.md)
 9.  [git merge](./merge.md)
-10. [git mv](./mv.md)
-11. [git pull](./pull.md)
-12. [git push](./push.md)
-13. [git reset](./reset.md)
-14. [git rm](./rm.md)
-15. [git show](./show.md)
-16. [git reset](./reset.md)
-17. [git stash](./stash.md)
-18. [git status](./status.md)
-19. [git commit](./commit.md)
+10. [git pull](./pull.md)
+11. [git push](./push.md)
+12. [git reset](./reset.md)
+13. [git rm](./rm.md)
+14. [git status](./status.md)
+
 
 
 
@@ -35,3 +31,4 @@ License: [MIT](./license.md)
 
 Git Logo by Jason Long https://git-scm.com/downloads/logos, 
 License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) is licensed under the Creative Commons Attribution 3.0 Unported License. 
+
