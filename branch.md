@@ -80,6 +80,21 @@ git branch --move local_branch_name new_branch_name
 
 <br>
 
+* ***-d  [branch name]*** - этот параметр используется для удаления ветки. В командной строке необходимо указать имя ветки.
+
+*Пример записи команды:*
+
+```bash=
+git branch -d [branch_name]
+
+```
+
+*Результат выполнения команды:*
+
+![git branch delete](./assets/skillfact_branch_delete.png)
+
+<br>
+
 **Примечание:** 
 
 Для создания ветки можно также использовать команду ***get checkout -b[new branch name]***. При выполнении этой команды будет создана новая ветка и одновременно будет переключение в новую ветку. Смотри [checkout](./checkout.md).
