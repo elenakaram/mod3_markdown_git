@@ -9,4 +9,21 @@
 ```bash=
 git pull
 ```
+<br>
+
+#### Параметры команды:
+
+* ***[remote_repository_name]*** - указывает на удаленный репозиторый, который надо извлечь и слить с локальным репозиторием.
+
+```bash=
+git pull mytestrepo
+```
+<br>
+
+* ***--no-commit [remote_repository_name]*** - при слиянии с локальным репозиторием коммит не создается.
+
+```bash=
+git pull --no-commit mytestrepo
+```
+
 
