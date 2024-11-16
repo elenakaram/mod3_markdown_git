@@ -10,7 +10,12 @@
 git diff
 ```
 
+<br>
+
+*Результат выполнения команды:*
+
 ![git_diff1](./assets/skillfact_git_diff1.png)
+
 
 
 #### Параметры команды:
