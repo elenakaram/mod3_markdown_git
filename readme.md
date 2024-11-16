@@ -17,9 +17,8 @@ License: [MIT](./license.md)
 9.  [git merge](./merge.md)
 10. [git pull](./pull.md)
 11. [git push](./push.md)
-12. [git reset](./reset.md)
-13. [git rm](./rm.md)
-14. [git status](./status.md)
+12. [git rm](./rm.md)
+13. [git status](./status.md)
 
 
 
